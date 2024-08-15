@@ -2,6 +2,8 @@
 
 This repository contains my personal ZSH setup, including my `.zshrc` configuration file and a custom ZSH theme, `pablo.zsh-theme`. Whether you're looking to enhance your terminal experience or just curious about different configurations, feel free to explore and use this setup.
 
+With a single "Esc" key, I can use Vim shortcuts in my terminal which are part of my muscle memory now.
+
 ## What's Unique?
 
 - **Custom ZSH Theme**: The `pablo.zsh-theme` adds a visually appealing prompt that displays the current directory, time, and other useful information. It's optimized for terminals with 256-color support.
